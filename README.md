@@ -1,2 +1,2 @@
-# reactTypeRedux
-react redux react-redux typescript demo
+# reacttesting   
+##not runnging project.
